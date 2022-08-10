@@ -2,4 +2,6 @@ line1  new
 line2  two
 lein3 shte
 
-line4 add time 2020.08.10*18.07
+line4 add time 2022.08.10-18.07
+
+line5 add time 2022.08.10-18:45
